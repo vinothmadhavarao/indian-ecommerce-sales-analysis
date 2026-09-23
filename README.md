@@ -1,4 +1,5 @@
 # 🛒 Indian E-Commerce Sales Analysis
+https://indian-ecommerce-sales-analysis-xbbclswkgpgaztunavs4il.streamlit.app/
 
 End-to-end analysis of **250,000 orders** from a multi-table Indian e-commerce dataset using Python: data validation, cleaning, exploratory analysis, statistical testing, Pareto analysis and RFM customer segmentation, ending in costed business recommendations.
 
