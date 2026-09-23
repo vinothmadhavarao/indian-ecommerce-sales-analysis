@@ -129,4 +129,4 @@ The dataset is **simulated**. Several patterns confirm this: order statuses are 
 
 **Vinoth**. Aspiring Data Analyst | MBA (Business Data Analytics), University of Madras
 
-[linkedin.com/in/vinothmadhavarao] · [vinothmadhavarao@gmail.com] · [github.com/vinothmadhavarao]
+[LinkedIn](https://www.linkedin.com/in/vinothmadhavarao) · [Email](mailto:vinothmadhavarao@gmail.com) · [GitHub](https://github.com/vinothmadhavarao)
